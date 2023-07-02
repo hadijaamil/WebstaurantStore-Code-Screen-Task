@@ -466,5 +466,131 @@
         <jarDirectory url="file://$MODULE_DIR$/../../seleniumJarFiles/selenium-java-4.10.0 (1)/lib" recursive="false" />
       </library>
     </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../seleniumJarFiles/webdrivermanager-5.3.3.jar!/io" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../seleniumJarFiles/webdrivermanager-5.3.3.jar!/io/github" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../seleniumJarFiles/webdrivermanager-5.3.3.jar!/io/github/bonigarcia" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../seleniumJarFiles/webdrivermanager-5.3.3.jar!/io/github/bonigarcia/wdm" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../seleniumJarFiles/webdrivermanager-5.3.3.jar!/io/github/bonigarcia/wdm/cache" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../seleniumJarFiles/webdrivermanager-5.3.3.jar!/io/github/bonigarcia/wdm/config" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../seleniumJarFiles/webdrivermanager-5.3.3.jar!/io/github/bonigarcia/wdm/docker" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../seleniumJarFiles/webdrivermanager-5.3.3.jar!/io/github/bonigarcia/wdm/managers" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../seleniumJarFiles/webdrivermanager-5.3.3.jar!/io/github/bonigarcia/wdm/online" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../seleniumJarFiles/webdrivermanager-5.3.3.jar!/io/github/bonigarcia/wdm/versions" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../seleniumJarFiles/webdrivermanager-5.3.3.jar!/io/github/bonigarcia/wdm/webdriver" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../seleniumJarFiles/webdrivermanager-5.3.3.jar!/META-INF/maven" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../seleniumJarFiles/webdrivermanager-5.3.3.jar!/META-INF/maven/io.github.bonigarcia" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../seleniumJarFiles/webdrivermanager-5.3.3.jar!/META-INF/maven/io.github.bonigarcia/webdrivermanager" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>
